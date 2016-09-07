@@ -185,7 +185,7 @@ ul.shortcode-list i {
 .button {
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #ff3333;
+  color: #fff;
   background: #ff3333;
   border: 2px solid #ff3333;
 }
@@ -195,15 +195,15 @@ ul.shortcode-list i {
 }
 
 .button.boxed {
-  color: #ff3333;
-  border: 2px solid #ff3333;
+  color: #fff;
+  border: 2px solid #fff;
   background-color: rgba(199, 10, 10, 0.8);
   background: none;
 }
 
 .button.boxed:hover {
-  color: #ff3333;
-  background: #ff3333;
+  color: #333;
+  background: #fff;
 }
 
 /*Top bar */
