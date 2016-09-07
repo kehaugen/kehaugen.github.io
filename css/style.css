@@ -198,14 +198,14 @@ ul.shortcode-list i {
   color: #fff;
   border: 2px solid #fff;
   background-color: rgba(199, 10, 10, 0.8);
-  background: none;
+  background: #ff3333;
 }
-/*
+
 .button.boxed:hover {
   color: #333;
   background: #fff;
 }
-*/
+
 /*Top bar */
 .top-bar {
   z-index: 100;
