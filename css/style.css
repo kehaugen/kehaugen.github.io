@@ -200,12 +200,12 @@ ul.shortcode-list i {
   background-color: rgba(199, 10, 10, 0.8);
   background: none;
 }
-
+/*
 .button.boxed:hover {
   color: #333;
   background: #fff;
 }
-
+*/
 /*Top bar */
 .top-bar {
   z-index: 100;
