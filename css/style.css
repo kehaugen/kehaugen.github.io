@@ -197,6 +197,7 @@ ul.shortcode-list i {
 .button.boxed {
   color: #fff;
   border: 2px solid #fff;
+  background-color: rgba(199, 10, 10, 0.8);
   background: none;
 }
 
