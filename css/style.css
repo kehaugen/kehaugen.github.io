@@ -113,7 +113,7 @@ ul.shortcode-list i {
 }
 .big-social i:hover {
   border: 3px solid #ff3333;
-  background-color: rgba(249, 206, 6, 0);
+  background-color: rgba(199, 10, 10, 0);
 }
 
 /*smart appear */
@@ -191,7 +191,7 @@ ul.shortcode-list i {
 }
 
 .button:hover {
-  background-color: rgba(249, 206, 6, 0.8);
+  background-color: rgba(199, 10, 10, 0.8);
 }
 
 .button.boxed {
